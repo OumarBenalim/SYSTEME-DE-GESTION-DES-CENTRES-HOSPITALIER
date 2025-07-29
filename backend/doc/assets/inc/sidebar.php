@@ -34,12 +34,12 @@
                                         <a href="his_doc_manage_patient.php">Manage Patients</a>
                                     </li>
                                     <hr>
-                                    <li>
+                                    <!-- <li>
                                         <a href="his_doc_discharge_patient.php">Discharge Patients</a>
                                     </li>
                                     <li>
                                         <a href="his_doc_patient_transfer.php">Patient Transfers</a>
-                                    </li>
+                                    </li> -->
                                 </ul>
                             </li>
 
@@ -129,7 +129,7 @@
                                 </ul>
                             </li>
 
-                            <li>
+                            <!-- <li>
                                 <a href="javascript: void(0);">
                                     <i class="mdi mdi-cash-refund "></i>
                                     <span> Payrolls </span>
@@ -141,7 +141,7 @@
                                         <a href="his_doc_view_payrolls.php">My Payrolls</a>
                                     </li>
                                 </ul>
-                            </li>
+                            </li> -->
 
                             
 

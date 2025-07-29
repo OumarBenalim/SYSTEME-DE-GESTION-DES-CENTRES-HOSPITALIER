@@ -34,12 +34,12 @@
                                         <a href="his_admin_manage_patient.php">Manage Patients</a>
                                     </li>
                                     <hr>
-                                    <li>
+                                    <!-- <li>
                                         <a href="his_admin_discharge_patient.php">Discharge Patients</a>
                                     </li>
                                     <li>
                                         <a href="his_admin_patient_transfer.php">Patient Transfers</a>
-                                    </li>
+                                    </li> -->
                                 </ul>
                             </li>
 
@@ -63,9 +63,9 @@
                                     <li>
                                         <a href="his_admin_assaign_dept.php">Assign Department</a>
                                     </li>
-                                    <li>
+                                    <!-- <li>
                                         <a href="his_admin_transfer_employee.php">Transfer Employee</a>
-                                    </li>
+                                    </li> -->
                                 </ul>
                             </li>
 
@@ -107,7 +107,7 @@
                                     </li>
                                 </ul>
                             </li>
-
+<!-- 
                             <li>
                                 <a href="javascript: void(0);">
                                     <i class="mdi mdi-cash-multiple "></i>
@@ -132,7 +132,7 @@
                                     
                                     
                                 </ul>
-                            </li>
+                            </li> -->
                             <li>
                                 <a href="javascript: void(0);">
                                     <i class=" fas fa-funnel-dollar "></i>
@@ -256,7 +256,7 @@
                                 </ul>
                             </li>
 
-                            <li>
+                            <!-- <li>
                                 <a href="javascript: void(0);">
                                     <i class="mdi mdi-cash-refund "></i>
                                     <span> Payrolls </span>
@@ -273,7 +273,7 @@
                                         <a href="his_admin_generate_payrolls.php">Generate Payrolls</a>
                                     </li>
                                 </ul>
-                            </li>
+                            </li> -->
 
                             <li>
                                 <a href="javascript: void(0);">

@@ -1,3 +1,3 @@
 <footer class="footer footer-alt">
-            2020 - <?php echo date ('Y');?> &copy; Hospital Management System.</a> 
+            2025 - <?php echo date ('Y');?> &copy; Hospital Management System.</a> 
 </footer>

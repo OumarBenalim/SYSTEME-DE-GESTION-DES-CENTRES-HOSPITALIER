@@ -18,7 +18,7 @@
      
     <!-- Begin page -->
         <div id="wrapper">
-<li><a href="list_appointments.php">📆 Rendez-vous</a></li>
+<!-- <li><a href="list_appointments.php">📆 Rendez-vous</a></li> -->
 
             <!-- Topbar Start -->
             <?php include('assets/inc/nav.php');?>
@@ -177,7 +177,7 @@
 
                             <!--Start Corporation Assets-->
                             <div class="col-md-6 col-xl-6">
-                                <a href="his_doc_view_payrolls.php">
+                                <!-- <a href="his_doc_view_payrolls.php">
                                     <div class="widget-rounded-circle card-box">
                                         <div class="row">
                                             <div class="col-6">
@@ -191,12 +191,12 @@
                                                     <p class="text-muted mb-1 text-truncate">My Payroll</p>
                                                 </div>
                                             </div>
-                                        </div> <!-- end row-->
-                                    </div>
-                                </a>     <!-- end widget-rounded-circle-->
+                                        </div>  end row-->
+                                    <!-- </div>
+                                </a>     end widget-rounded-circle  -->
                             </div> <!-- end col-->
-                            <!--End Corporation Assets-->
-                        </div>
+                            <!--End Corporation Assets--> 
+                        </div>  
                         
 
                         
